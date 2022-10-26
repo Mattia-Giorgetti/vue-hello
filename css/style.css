@@ -1,0 +1,10 @@
+.round_border {
+    border-radius: 20px;
+}
+.my_bg {
+    background: linear-gradient(to right, rgb(64, 61, 255), rgb(9, 185, 156));
+}
+.huge_txt {
+    font-size: 60px;
+    letter-spacing: 1rem;
+}
